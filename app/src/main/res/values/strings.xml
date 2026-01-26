@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">MyDemo</string>
+    <string name="home">Home</string>
+    <string name="discover">Discover</string>
+    <string name="award">Award</string>
+    <string name="celebrities">Celebrities</string>
+    <string name="recent">Recent</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="playlists">Playlists</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="completed">Completed</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="Anime">Anime</string>
+    <string name="loki">Loki</string>
+    <string name="superhero">Superhero</string>
+    <string name="chernobyl">Chernobyl</string>
+    <string name="mini_series">Mini Series</string>
+    <string name="rick_and_morty">Rick and Morty</string>
+    <string name="fantasy">Fantasy</string>
 </resources>
