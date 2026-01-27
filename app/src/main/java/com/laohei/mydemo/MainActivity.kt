@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import com.laohei.mydemo.nested_pager.TestNestedPager
 import com.laohei.mydemo.pixel_design.DesignScreen
 import com.laohei.mydemo.ui.theme.MyDemoTheme
 import com.laohei.mydemo.util.checkOverlayPermission
@@ -20,7 +21,8 @@ class MainActivity : ComponentActivity() {
         }
         setContent {
             MyDemoTheme {
-                DesignScreen()
+//                DesignScreen()
+                TestNestedPager()
             }
         }
     }
